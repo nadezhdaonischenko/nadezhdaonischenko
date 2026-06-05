@@ -32,10 +32,10 @@
 ## 📂 Портфолио дашбордов
 *Здесь представлены мои работы по различным доменам (E-commerce, EdTech, MedTech):* 👉 
 
-* [./Projects.md](https://github.com/nadezhdaonischenko/Projects)
-* [./DASHBOARDS.md](https://github.com/nadezhdaonischenko/Dashboards)
-* [./Project-Weather-and-DTP.md](https://github.com/nadezhdaonischenko/Project-Weather-and-DTP)
-* [./League-of-Legends-Analytics-Platform.md](https://github.com/nadezhdaonischenko/League-of-Legends-Analytics-Platform)
+* [./Projects](https://github.com/nadezhdaonischenko/Projects)
+* [./DASHBOARDS](https://github.com/nadezhdaonischenko/Dashboards)
+* [./Project-Weather-and-DTP](https://github.com/nadezhdaonischenko/Project-Weather-and-DTP)
+* [./League-of-Legends-Analytics-Platform](https://github.com/nadezhdaonischenko/League-of-Legends-Analytics-Platform)
 
 ---
 
