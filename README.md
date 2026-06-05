@@ -15,7 +15,7 @@
 | Направление | Технологии |
 | :--- | :--- |
 | **Анализ & Скрипты** | `Python`, `Jupyter Notebook`, `PySpark`, `API`, `R` |
-| **Базы данных & ETL** |  `SQL`, `PostgreSQL`, `ClickHouse`, `Airflow`, 'GitHub Action` |
+| **Базы данных & ETL** |  `SQL`, `PostgreSQL`, `ClickHouse`, `Airflow`, `GitHub Action` |
 | **BI & Визуализация** | `PowerBI`, `Yandex DataLens`, `Apache Superset`, `Metabase`, `Dash`, `Google Sheets / Excel` |
 
 ---
