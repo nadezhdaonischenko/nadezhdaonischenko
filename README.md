@@ -45,5 +45,3 @@
 
 *   **Telegram:** [@NadezhdaOnischenko]
 *   **Email:** [nadezhdaonischenko@gmail.com]
-
---
