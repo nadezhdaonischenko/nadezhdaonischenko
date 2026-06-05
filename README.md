@@ -29,8 +29,8 @@
 
 ---
 
-## 📂 Портфолио дашбордов
-*Здесь представлены мои работы по различным доменам (E-commerce, EdTech, MedTech, GameDev и др):* 👉 
+## 📂 Портфолио
+*Здесь представлены мои работы по различным направлениям (E-commerce, EdTech, MedTech, GameDev и др):* 👉 
 
 * [Projects](https://github.com/nadezhdaonischenko/Projects)
 * [DASHBOARDS](https://github.com/nadezhdaonischenko/Dashboards)
