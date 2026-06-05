@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Портфолио дашбордов
-*Здесь представлены мои работы по различным доменам (E-commerce, EdTech, MedTech):* 👉 
+*Здесь представлены мои работы по различным доменам (E-commerce, EdTech, MedTech, GameDev и др):* 👉 
 
 * [Projects](https://github.com/nadezhdaonischenko/Projects)
 * [DASHBOARDS](https://github.com/nadezhdaonischenko/Dashboards)
